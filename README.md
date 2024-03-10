@@ -6,6 +6,8 @@ Hello!! I'm Mediat Yusuff, an enthusiastic software engineer with a bachelor's d
 
 Here's a list of technologies/tools I am currently working with.
 
+- .Net(C#)
+- MicrosoftSql / Entity Framework
 - Nodejs 
 - Express
 - MongoDB
