@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Hello!! I'm Mediat Yusuff, an enthusiastic software engineer with a bachelor's degree in Mathematics, I'm passionate about building API's using .Net and Nodejs.
+Hello!! I'm Mediat Yusuff, a software engineer with a bachelor's degree in Mathematics, I'm passionate about building API's using .Net and Nodejs.
 
-## What I'm learning 📖
+## Tech Stack
 
 Here's a list of technologies/tools I am currently working with.
 
@@ -12,3 +12,5 @@ Here's a list of technologies/tools I am currently working with.
 - Express
 - MongoDB
 - PostgreSQL
+- Azure
+- Unit Testing
