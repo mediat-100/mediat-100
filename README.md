@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello!! I'm Mediat Yusuff, an enthusiastic software engineer with a bachelor's degree in Mathematics, I'm passionate about building API's using .Net and Nodejs.
+Hello!! I'm Mediat Yusuff, a software engineer with a bachelor's degree in Mathematics, I'm passionate about building API's using .Net and Nodejs.
 
 ## What I'm learning 📖
 
