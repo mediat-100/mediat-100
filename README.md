@@ -13,4 +13,5 @@ Here's a list of technologies/tools I am currently working with.
 - MongoDB
 - PostgreSQL
 - Azure
+- Docker
 - Unit Testing
